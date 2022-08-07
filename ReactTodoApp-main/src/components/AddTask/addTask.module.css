@@ -1,0 +1,28 @@
+.addTask {
+  /* Sample */
+  border: 1px solid red;
+  display: flex;
+  width: 100%;
+  text-align: center;
+  margin: auto;
+}
+
+.addTask input {
+  margin-left: 10%;
+  width: 300px;
+  height: 30px;
+}
+
+.addTask button{
+  background-color: navy;
+  margin-right: 10px;
+  color: wheat;
+}
+
+.addTask button:hover{
+  background-color:  yellowgreen;
+  margin-right: 10px;
+  color: wheat;
+  transform: matrix(90);
+  transition: all 3.5s ease;
+}

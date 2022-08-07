@@ -1,0 +1,18 @@
+.task {
+  /* Sample  */
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-evenly;
+  gap: 40px;
+}
+.task button{
+  background-color: gray;
+}
+.removeButton {
+  opacity: 0;
+}
+
+.removeButton:hover {
+  opacity: 1;
+}

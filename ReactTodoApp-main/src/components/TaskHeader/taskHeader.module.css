@@ -1,0 +1,7 @@
+.taskHeader {
+  /* Sample */
+  border: 1px solid darkblue;
+  padding: 2rem;
+  background-color: wheat;
+  background-image: linear-gradient(135deg,#6bffa0 10%,#0e5cad 100% );
+}
